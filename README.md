@@ -14,11 +14,11 @@ Criei essa api para aplicar conceitos estudado, ela foi feita ultilizando docker
 ## Ultilizando a aplicação:
 Clone a aplicação
 ````
-git clone https://github.com/allesst1rbt/Payment_system.git
+git clone https://github.com/allesst1rbt/TestApi.git
 ````
 Adentre a pasta da aplicação 
 ````
-cd Payment_system
+cd TestApi
 ````
 Suba o docker 
 ````
