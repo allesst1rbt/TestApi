@@ -14,24 +14,17 @@ Criei essa api para aplicar conceitos estudado, ela foi feita ultilizando docker
 ## Ultilizando a aplicação:
 Clone a aplicação
 ````
-git clone https://github.com/allesst1rbt/TestApi.git
+git clone https://github.com/allesst1rbt/Payment_system.git
 ````
 Adentre a pasta da aplicação 
 ````
-cd TestApi
+cd Payment_system
 ````
 Suba o docker 
 ````
 docker-compose up -d
 ````
-## Realizando os testes:
-Entre no container :
-```
-docker exec -it TesteApi_app_1 bash
-```
-Execute os testes : 
-```
-cd back && php artisan test
-```
+
+Pronto ela ja estara rodando 
 
 
